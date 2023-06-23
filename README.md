@@ -10,7 +10,7 @@ COVID-19 In 2019, the Centers for Disease Control and Prevention (CDC) started m
 
 References: [Medical News Today](https://www.medicalnewstoday.com/articles/256521#definition)
 
-Kaggle Notebook: [COVID-19 Analysis](https://www.kaggle.com/chirag9073/covid-19-analysis-upd-3rd-july)
+Kaggle Notebook: [COVID-19 Analysis](https://www.kaggle.com/datasets/naindeepkaur/covid-19-india)
 
 ***About Project***
 
